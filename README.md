@@ -9,14 +9,7 @@ Sou um programador em constante aprendizado, focado em criar soluções prática
 explorar novas tecnologias e evoluir profissionalmente.
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=htlktrevisan&theme=onedark&row=1&column=6"
-      alt="GitHub Trophies"
-    />
-  </a>
-</p>
+
 
 ---
 
