@@ -53,7 +53,6 @@ explorar novas tecnologias e evoluir profissionalmente.
   <img src="https://reactnative.dev/img/header_logo.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="40"/>
 </p>
